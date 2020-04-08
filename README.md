@@ -1,5 +1,5 @@
-# 🖥 NLP-text preprocessing
-Script for Test Preprocessing in Natural Language Processing with Python
+# 🖥 NLP- text preprocessing
+Script for Text Preprocessing in Natural Language Processing
 
 ## 🔗 What is included?
 * Word Tokenize **(어절 분리, 단어 토큰화)**
