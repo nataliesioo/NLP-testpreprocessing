@@ -1,5 +1,5 @@
 # 🖥 NLP- text preprocessing
-Script for Text Preprocessing in Natural Language Processing
+Script for Text Preprocessing in Natural Language Processing (Notes from my NLP class)
 
 ## 🔗 What is included?
 * Word Tokenize **(어절 분리, 단어 토큰화)**
